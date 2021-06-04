@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1576245200 source:c:\users\youssefdarwish\desktop\code\all\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1577019753 source:c:\users\youssefdarwish\desktop\all\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1577028413 c:\users\youssefdarwish\desktop\all\phonebook.h
+
+1577025163 source:c:\users\youssefdarwish\desktop\all\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1577025163 source:c:\users\youssefdarwish\desktop\phonebook project\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1577050177 c:\users\youssefdarwish\desktop\phonebook project\phonebook.h
+
